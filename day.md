@@ -14,7 +14,7 @@
 
     ![Deshi Lunch!](https://t3.ftcdn.net/jpg/05/20/33/96/360_F_520339601_sW8hGS5iuG0LGkPlETDehO73NmJE5ec1.jpg)
 
-6. later we take 30-1 hr nap if we get a chance
+6. later we take 30min -1.00hr nap if we get a chance
 7. if not we go for shopping or play at the park
 
 ## Night
