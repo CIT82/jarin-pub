@@ -1,6 +1,6 @@
 # MY Day
 ## Morning
-1. wakeup by 5.30 am and make coffie for the day and pary ⏱️:
+1. wakeup by 5.30 am and make coffie for the day and pary ⏱
 2. start working from 6.00 am (***Home Office***)
 3. checked work emails and join meetting
 4. get redy my son for school by 7.30 am
@@ -24,6 +24,6 @@
 2. Eat eat our dinner by 8.30 pm
 3. Then I put my son to bed for sleep
 4. Once he sleeps I try to pray and do my **Homework** and **Assingment**
-5. By 11.30 pm I go to bed and prepare myself for next day  😴:
+5. By 11.30 pm I go to bed and prepare myself for next day  😴
 
 >==I always try to keep ***my day*** as simple as possible but being a single mom and immigrant life is not easy==  
