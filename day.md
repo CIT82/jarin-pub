@@ -2,13 +2,12 @@
 ## Morning
 1. wakeup by 5.30 am and make coffie for the day and pary ⏱
 2. start working from 6.00 am (***Home Office***)
-3. checked work emails and join meetting
-4. get redy my son for school by 7.30 am
+3. checke work emails and join meetting
+4. get my son ready for school by 7.30 am
 5. Take 30 min break by 10 or 10.30 am and have my breakfast
 
-
 ## Noon
-1. if i am not busy at work then try to do the class assingnement in between work
+1. if i am not too busy at work then try to do the class assingnement in between work
 2. finish my work by 2.30pm
 3. then pickup my son from school by 3.00pm
 4. then we have lunch together by 3.30pm
