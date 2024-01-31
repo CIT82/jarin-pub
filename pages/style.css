@@ -48,6 +48,9 @@ body {
   img{
     border-radius: 5px;
   }
+  strong{
+    color: black;
+  }
   section {
     margin-bottom: 20px;
   }
