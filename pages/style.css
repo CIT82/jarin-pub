@@ -35,6 +35,7 @@ body {
   nav a {
     text-decoration: none;
     margin-right: 20px;
+    color: white;
   }
   
   .images {
@@ -52,7 +53,8 @@ body {
   }
   
   h2 {
-    color: #0066cc;
+    color: #e8ebee;
+    text-align: center;
   }
   
   p {
@@ -61,16 +63,22 @@ body {
   
   form {
     margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    border: 2px solid white;
+    width: 55%;
   }
   
   label {
     display: block;
+    color: white;
   }
   
   textarea,
   input {
     margin-bottom: 10px;
-    width: 100%;
+    width: 50%;
     padding: 5px;
     
 
@@ -81,12 +89,14 @@ body {
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+    
   }
   
   footer {
     background-color: #52778a;
     color: white;
     padding: 10px 0;
+    text-align: center;
   }
   
   .outline {
