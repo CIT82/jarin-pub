@@ -1,21 +1,94 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
-    margin:0;
-    padding:0;
-    text-align: center;
-}
+    margin: 0;
+    padding: 0;
+    background-color: black;
 
-header{
+  }
+  
+  header {
     background-color: rgb(87, 113, 178);
     color: azure;
     padding: 10px 0;
-    border: 10px red dashed;
-}
-main{
- margin: 15px;
- padding: 15px;
- background-color: rgb(183, 199, 213);   
-}
-.outline{
+    text-align: center;
+  }
+  
+  main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(183, 199, 213);
+  }
+  
+  nav {
+    margin-top: 10px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 0 20px;
+    font-weight: bold;
+
+  }
+  nav span{
+    color: white;
+
+  }
+  
+  nav a {
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    border: 2px ridge black;
+    
+  }
+  img{
+    border-radius: 5px;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #0066cc;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  textarea,
+  input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    
+
+  }  
+  button {
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #52778a;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .outline {
     border: 1px black solid;
-}
+  }

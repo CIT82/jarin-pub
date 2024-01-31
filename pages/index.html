@@ -3,31 +3,57 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Website</title>
+    <title>My updated Website</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="main.js"></script>
   </head>
-  <body>
-   <header class="outline">
-    <h1>Welcome to my website</h1>
-   </header>
-   <main>
-    <p>This webpage demonstrates my first efforts in creating a website</p>
-    <section>
-      <h2>My Fav Fruits</h2>
-      <ul>
-        <li>Apple</li>
-        <li>Kiwi</li>
-        <li>Banana</li>
-      </ul>
-    </section>
-    <section>
-      <h2>Steps to make Sandwich</h2>
-      <ol>
-        <li>Get Bread Slices</li>
-        <li>Add your fav fillings</li>
-        <li>Put the slices together</li>
-      </ol>
-    </section>
-   </main>
+  <body class="outline">
+    <header>
+      <h1>Welcome to my Updated website</h1>
+    </header>
+    <nav>
+      <a href="#home" target="_blank"><span>Home</span> </a>
+      <a href="#contact"> <span>Contact Us</span></a>
+      <a href="https://adventure.com/" target="_blank"><span>Discover more</span></a>
+    </nav>
+    <main>
+      <p>Embark on a journey to explore the beauty of nature and connect with the great outdoors.</p>
+      <section>
+        <h2>Adventurous Spots</h2>
+
+        Hiking Trails, Scenic Campsites, Hidden Waterfalls</p>
+        <section class="images">
+          <img src="../images/hiking trails.png" alt="Hiking" height="300" width="400">
+          <img src="../images/scenic.png" alt="scenic" height="300" width="400">
+          <img src="../images/Hidden Waterfalls.png" alt="waterfall" height="300" width="400" >
+          
+        </section>
+      </section>
+      <section>
+        <h2>Nature Escapades</h2>
+        <p>Plan a weekend getaway, Capture stunning landscapes, Join a local nature group</p>
+      </section>
+      <section class="images">
+        <img src="../images/weekend gateway.png" alt="Hiking" height="300" width="400">
+        <img src="../images/stunning landsape.png" alt="scenic" height="300" width="400">
+        <img src="../images/nature group.png" alt="waterfall" height="300" width="400" >
+        
+      </section>
+      <img src="../images/sunset.png" alt="Mountain Sunset" height="300" width="400" /><br>
+      <strong>Mountain sunset</strong>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <form action="" id="contactForm">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" />
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" />
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" cols="30" rows="10"></textarea><br />
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+    <footer>Copyright &copy; Explore Nature</footer>
   </body>
 </html>
