@@ -1,0 +1,30 @@
+body {
+    background-color: #bd9191; 
+    padding: 20px;
+  }
+  
+
+  .skill-progress {
+    margin-bottom: 20px;
+  }
+
+  .progress-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .progress-bar {
+    transition: width 1s ease-in-out;
+  }
+
+  /* Styling for scrollspy */
+  #navbar-example2 {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    
+  }
+
+  .scrollspy-example {
+    margin-top: 70px; 
+  }
