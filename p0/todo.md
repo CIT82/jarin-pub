@@ -9,7 +9,7 @@
 6. [ ] Determine if the service items and Alt service icon boxes are needed
 7. [ ] Revise the nav tabs and tab content
 8. [ ] Remove the Testimonials and blog sections if they will not be used
-9. [ ] Update the footer content and remove all links. Add link for sitemap.html page.
+9. [ ] Update the footer content and remove all links. 
 
 ## Image Changes:
 10. [ ] Change the favicon and apple touch icon to custom choices
